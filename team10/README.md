@@ -1,4 +1,6 @@
 Team10
 
 
-- JeonUiJeong
+- 전의정
+- 신유빈
+- 한윤재
