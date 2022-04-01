@@ -1,4 +1,4 @@
-Team 1
+Team 1 Information
 
 - 김은진
 - 김신영
